@@ -1,7 +1,7 @@
 # 修改
 基于Kity Minder二次修改，移除百度验证和其他功能，只保留xmind功能，支持在线预览、编辑，支持本地读取、远程文件流链接读取
 
-# 直接使用办法
+# 直接使用打包后的文件
 https://github.com/xlzy520/CloundDisk3.0/tree/master/public/xmind
 
 # 使用方法
