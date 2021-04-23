@@ -1,5 +1,8 @@
 # 修改
-基于Kity Minder二次修改，移除百度验证和其他功能，只保留xmind功能，支持在线预览、编辑，支持本地读取、远程文件流链接读取
+基于Kity Minder二次修改，移除百度验证和其他功能，只保留xmind功能，支持在线预览、编辑，支持本地读取、远程文件流链接读取。
+
+# 关于lib文件夹下的三个子项目找不到的问题
+可以在[源项目](https://github.com/fex-team/kityminder/tree/dev/lib)将那个三个蓝色的子项目下载下来
 
 # 直接使用打包后的文件
 https://github.com/xlzy520/CloundDisk3.0/tree/master/public/xmind
