@@ -4,6 +4,9 @@
 # 关于lib文件夹下的三个子项目找不到的问题
 可以在[源项目](https://github.com/fex-team/kityminder/tree/dev/lib)将那个三个蓝色的子项目下载下来
 
+也可以直接使用`git submodule update`,如下图步骤
+![](https://i0.hdslb.com/bfs/album/10075b865a0f8d60e4a919ade5107b9a76b4eea4.png)
+
 # 直接使用打包后的文件
 https://github.com/xlzy520/CloundDisk3.0/tree/master/public/xmind
 
